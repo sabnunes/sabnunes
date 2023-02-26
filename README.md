@@ -1,23 +1,10 @@
 ### Hi there,
- - 👾💻 These projects may not change the world, but they've helped me gain a better understanding of software, web, and game dev.
- - 🎨🖥️ I am a CG artist by trade. Over the last ten years, I have spent most of my time creating 3D imagery for movies and games.
- - 💖🌐 I've always enjoyed creating and building, computers, art, and mathematics.
- - 🧠👓 I have strong analytical skills, a keen eye for detail, and technical curiosity and adaptability.
-
-<!--
-**sabnunes/sabnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning C# and C++
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👾 These projects may not change the world, but they've helped me gain a better understanding of software, web, and game dev.
+- 🎨 I am a 3d lighting and look development artist by trade, with 3d generalist knowledge and experience.
+- 🎥 For the last ten years, I have spent most of my time working on movies and games.
+- 🌐 I've always enjoyed creating and building, computers, art, and mathematics. 
+- 🧠 I have strong analytical skills, a keen eye for detail, and technical curiosity and adaptability.
+- ⚡ Fun fact: my longest drive was from Montreal and Prince Edward Island, and my longest flight was from Canada to Japan.
 
 
 <table>
