@@ -1,7 +1,7 @@
 ### Hi there,
 - 👾 These projects may not change the world, but they've helped me gain a better understanding of software, web, and game dev.
 - 🎨 I am a 3d lighting and look development artist by trade, with 3d generalist knowledge and experience.
-- 🎥 For the last ten years, I have spent most of my time working on movies and games.
+- 🎥 For the last ten years, I have spent most of my time working on movies and games. I currently work at Microsoft.
 - 🌐 I've always enjoyed creating and building, computers, art, and mathematics. 
 - 🧠 I have strong analytical skills, a keen eye for detail, and technical curiosity and adaptability.
 - ⚡ Fun fact: my longest drive was from Montreal and Prince Edward Island, and my longest flight was from Canada to Japan.
