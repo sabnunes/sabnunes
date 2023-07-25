@@ -9,9 +9,10 @@
 <table>
 <tr>
 <th align="left" colspan="3">Programming Samples</th></tr>
+
 <tr>
 <td align="top" width="15%">
-<a target="_blank" href="https://github.com/sabnunes/BestSellingBooks" target="_blank" rel="noreferrer noopener">Basic Algos</a>
+<a target="_blank" href="https://github.com/sabnunes/BestSellingBooks" target="_blank" rel="noreferrer noopener">Bestsellers</a>
 </td>
 <td align="top" width="60%">
 Sorts through a list of bestselling books based on input filters a user's input.
@@ -21,8 +22,7 @@ Python
 </td>
 </tr>
 
-<tr>
-<th align="left" colspan="3">Programming Samples</th></tr>
+
 <tr>
 <td align="top" width="15%">
 <a target="_blank" href="https://github.com/sabnunes/BasicAlgorithms" target="_blank" rel="noreferrer noopener">Basic Algos</a>
@@ -35,8 +35,6 @@ Python
 </td>
 </tr>
 
-<tr>
-<th align="left" colspan="3">Programming Samples</th></tr>
 <tr>
 <td align="top" width="15%">
 <a target="_blank" href="https://github.com/sabnunes/ArtiFacture" target="_blank" rel="noreferrer noopener">ArtiFacture</a>
