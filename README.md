@@ -140,5 +140,5 @@ HTML/CSS/JavaScript
 </tr>
 </table>
 
-![](https://komarev.com/ghpvc/?username=sabnunes&label=Visitors)
+![](https://komarev.com/ghpvc/?username=sabnunes&label=⚆&color=green)
 
