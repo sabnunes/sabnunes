@@ -58,19 +58,6 @@ Attempts to find a scrambled word from a defined list of words.
 C#
 </td>
 	
-</tr>
-<tr>
-<td align="top">
-<a target="_blank" href="https://github.com/sabnunes/SudokuSolver" target="_blank" rel="noreferrer noopener">SudokuSolver</a>
-</td>
-<td align="top">
-A program that can solve notepad-based Sudoku boards.
-</td>
-<td align="top">	
-C#
-</td>
-</tr>
-	
 <tr>
 <td align="top">
 <a target="_blank" href="https://github.com/sabnunes/SimpleCalculator" target="_blank" rel="noreferrer noopener">SimpleCalculator</a>
@@ -81,9 +68,7 @@ A very simple calculator.
 <td align="top">	
 C#
 </td>
-</tr>
-	
-	
+</tr>	
 
 <tr>
 <td align="top">
@@ -93,7 +78,7 @@ C#
 A website built on Github pages (wip).
 </td>
 <td align="top">	
-HTML, CSS, JavaScript
+HTML/CSS/JavaScript
 </td>
 </tr>
 </table>
