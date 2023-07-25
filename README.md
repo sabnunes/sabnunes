@@ -15,7 +15,7 @@
 <a target="_blank" href="https://github.com/sabnunes/BestSellingBooks" target="_blank" rel="noreferrer noopener">Bestsellers</a>
 </td>
 <td align="top" width="60%">
-Sorts through a list of bestselling books based on input filters a user's input.
+Sorts through a list of bestselling books based on user input.
 </td>
 <td align="top" width="15%">	
 Python
@@ -25,7 +25,7 @@ Python
 
 <tr>
 <td align="top" width="15%">
-<a target="_blank" href="https://github.com/sabnunes/BasicAlgorithms" target="_blank" rel="noreferrer noopener">Basic Algos</a>
+<a target="_blank" href="https://github.com/sabnunes/BasicAlgorithms" target="_blank" rel="noreferrer noopener">BasicAlgorithms</a>
 </td>
 <td align="top" width="60%">
 Script that performs mathematical operations with a user's input.
