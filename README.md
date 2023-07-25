@@ -1,12 +1,40 @@
 ### Hi there,
-- 👾 These projects may not change the world, but they've helped me gain a better understanding of software, web, and game dev.
-- 🎥 For the last ten years, I have spent my time working on movies and games. I currently work at Microsoft.
-- 🌐 I enjoy creating and building, computers, art, and mathematics. 
-- 🧠 I have strong analytical skills, a keen eye for detail, and technical curiosity and adaptability.
+- 👾 These projects may not change the world, but they've helped me gain a better understanding of software and game dev.
+- 🎥 For the last ten years, I've worked on movies and games. I currently work at Microsoft.
+- 🌐 I enjoy creating, building, computers, art, and mathematics. 
+- 🧠 I have strong analytical skills, a keen eye for detail, technical curiosity and adaptability.
 - ⚡ Fun fact: my longest drive was from Montreal and Prince Edward Island, and my longest flight was from Canada to Japan.
 
 
 <table>
+<tr>
+<th align="left" colspan="3">Programming Samples</th></tr>
+<tr>
+<td align="top" width="15%">
+<a target="_blank" href="https://github.com/sabnunes/BestSellingBooks" target="_blank" rel="noreferrer noopener">Basic Algos</a>
+</td>
+<td align="top" width="60%">
+Sorts through a list of bestselling books based on input filters a user's input.
+</td>
+<td align="top" width="15%">	
+Python
+</td>
+</tr>
+
+<tr>
+<th align="left" colspan="3">Programming Samples</th></tr>
+<tr>
+<td align="top" width="15%">
+<a target="_blank" href="https://github.com/sabnunes/BasicAlgorithms" target="_blank" rel="noreferrer noopener">Basic Algos</a>
+</td>
+<td align="top" width="60%">
+Script that performs mathematical operations with a user's input.
+</td>
+<td align="top" width="15%">	
+Python
+</td>
+</tr>
+
 <tr>
 <th align="left" colspan="3">Programming Samples</th></tr>
 <tr>
@@ -26,7 +54,7 @@ C#
 <a target="_blank" href="https://github.com/sabnunes/WordUnscrambler" target="_blank" rel="noreferrer noopener">WordUnscrambler</a>
 </td>
 <td align="top">
-A "word unscrambler" which attempts to find a scrambled word from a defined list of words.
+Attempts to find a scrambled word from a defined list of words.
 </td>
 <td align="top">	
 C#
