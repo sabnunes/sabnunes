@@ -1,9 +1,8 @@
 ### Hi there,
-- 👾 These projects may not change the world, but they've helped me gain a better understanding of software and game dev.
-- 🎥 For the last ten years, I've worked on movies and games. I currently work at Microsoft.
+- ⚡ For the last ten years, I've worked on movies and games. I currently work at Microsoft.
 - 🌐 I enjoy creating, building, computers, art, and mathematics. 
 - 🧠 I have strong analytical skills, a keen eye for detail, technical curiosity and adaptability.
-- ⚡ Fun fact: my longest drive was from Montreal and Prince Edward Island, and my longest flight was from Canada to Japan.
+
 
 
 <table>
