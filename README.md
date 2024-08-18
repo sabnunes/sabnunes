@@ -16,7 +16,20 @@
 <a target="_blank" href="https://github.com/sabnunes/GuessTheNumber" target="_blank" rel="noreferrer noopener">GuessTheNumber</a>
 </td>
 <td align="top" width="60%">
-A game where the player must guess the correct number with as few guesses as possible.
+A game where the player must guess the correct number.
+</td>
+<td align="top" width="15%">	
+Java
+</td>
+</tr>
+
+
+<tr>
+<td align="top" width="15%">
+<a target="_blank" href="https://github.com/sabnunes/JavaLearnings" target="_blank" rel="noreferrer noopener">JavaLearnings</a>
+</td>
+<td align="top" width="60%">
+Includes the practice of Java principles (concurrency, threading, swing-gui, etc.).
 </td>
 <td align="top" width="15%">	
 Java
