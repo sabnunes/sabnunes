@@ -13,7 +13,20 @@
 
 <tr>
 <td align="top" width="15%">
-<a target="_blank" href="https://github.com/sabnunes/SchoolRoster" target="_blank" rel="noreferrer noopener">School Roster</a>
+<a target="_blank" href="https://github.com/sabnunes/GuessTheNumber" target="_blank" rel="noreferrer noopener">GuessTheNumber</a>
+</td>
+<td align="top" width="60%">
+A game where the player must guess the correct number with as few guesses as possible.
+</td>
+<td align="top" width="15%">	
+Java
+</td>
+</tr>
+
+
+<tr>
+<td align="top" width="15%">
+<a target="_blank" href="https://github.com/sabnunes/SchoolRoster" target="_blank" rel="noreferrer noopener">SchoolRoster</a>
 </td>
 <td align="top" width="60%">
 Creates a roster of people working or attending a school.
@@ -88,7 +101,7 @@ C#
 <a target="_blank" href="https://github.com/sabnunes/sabnunes.github.io" target="_blank" rel="noreferrer noopener">sabnunes.github.io</a>
 </td>
 <td align="top">
-A website built on Github pages (wip).
+A work-in-progress website built on Github pages.
 </td>
 <td align="top">	
 HTML/CSS/JavaScript
