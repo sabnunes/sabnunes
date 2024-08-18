@@ -123,8 +123,6 @@ HTML/CSS/JavaScript
 	<img src="https://github.com/sabnunes/sabnunes.github.io/blob/main/images/project_geoCatch.gif" alt="Falling Shapes" width="175" height=auto>
 	</a>
 	</div>
-</tr>
-<tr>
 	</td>
 	<td align="top" width="33%">
 	<h5 align="center">Muffin War</h5>
