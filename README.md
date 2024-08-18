@@ -29,7 +29,7 @@ Java
 <a target="_blank" href="https://github.com/sabnunes/JavaLearnings" target="_blank" rel="noreferrer noopener">JavaLearnings</a>
 </td>
 <td align="top" width="60%">
-Includes the practice of Java principles (concurrency, threading, swing-gui, etc.).
+Includes the practice of Java principles (concurrency, threading, swing-gui).
 </td>
 <td align="top" width="15%">	
 Java
