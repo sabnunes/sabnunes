@@ -1,5 +1,5 @@
 ### Hi there,
-- ⚡ For the last ten years, I've worked on movies and games. I currently work at Microsoft.
+- ⚡ For the last ten years, I've worked on movies and games..
 - 🌐 I enjoy creating, building, computers, art, and mathematics. 
 - 🧠 I have strong analytical skills, a keen eye for detail, technical curiosity and adaptability.
 
