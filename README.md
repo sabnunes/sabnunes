@@ -58,19 +58,6 @@ Python
 </td>
 </tr>
 
-
-<tr>
-<td align="top" width="15%">
-<a target="_blank" href="https://github.com/sabnunes/BasicAlgorithms" target="_blank" rel="noreferrer noopener">BasicAlgorithms</a>
-</td>
-<td align="top" width="60%">
-Script that performs mathematical operations with a user's input.
-</td>
-<td align="top" width="15%">	
-Python
-</td>
-</tr>
-
 <tr>
 <td align="top" width="15%">
 <a target="_blank" href="https://github.com/sabnunes/ArtiFacture" target="_blank" rel="noreferrer noopener">ArtiFacture</a>
@@ -93,30 +80,7 @@ Attempts to find a scrambled word from a defined list of words.
 <td align="top">	
 C#
 </td>
-	
-<tr>
-<td align="top">
-<a target="_blank" href="https://github.com/sabnunes/SimpleCalculator" target="_blank" rel="noreferrer noopener">SimpleCalculator</a>
-</td>
-<td align="top">
-A very simple calculator.
-</td>
-<td align="top">	
-C#
-</td>
-</tr>	
 
-<tr>
-<td align="top">
-<a target="_blank" href="https://github.com/sabnunes/sabnunes.github.io" target="_blank" rel="noreferrer noopener">sabnunes.github.io</a>
-</td>
-<td align="top">
-A work-in-progress website built on Github pages.
-</td>
-<td align="top">	
-HTML/CSS/JavaScript
-</td>
-</tr>
 </table>
 
 
