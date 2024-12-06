@@ -1,5 +1,5 @@
 ### Hi there,
-- 🌐 I enjoy creating, building, computers, art, and mathematics. 
+- 🌐 I enjoy creating, building, computers, art, and mathematics. I use GitHub to track my learning journey.
 - 🧠 I have strong analytical skills, a keen eye for detail, technical curiosity and adaptability.
 
 <table>
